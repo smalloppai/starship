@@ -50,7 +50,7 @@ color_user = '#9370db'
 
 [hostname]
 ssh_symbol = ""
-style = "bg:color_user fg:color_fg0"
+style = "bg:color_root fg:color_fg0"
 format = '[@$hostname ]($style)'
 ssh_only = false
 trim_at = ""
